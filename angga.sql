@@ -43,7 +43,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `email_verified_at`, `password`, `remember_token`, `created_at`, `updated_at`) VALUES
-(1, 'ezityoo', 'akmarrr@mozmail.com', NULL, '$2y$12$SRVZfc3QoCJ71ibijtdgm.o9TygPFgfhbdstwmJfdunDIyD7qJF7C', NULL, '2025-01-10 00:26:51', '2025-01-10 00:26:51');
+(1, 'angga', 'angga@mozmail.com', NULL, '$2y$12$SRVZfc3QoCJ71ibijtdgm.o9TygPFgfhbdstwmJfdunDIyD7qJF7C', NULL, '2025-01-10 00:26:51', '2025-01-10 00:26:51');
 
 --
 -- Indexes for dumped tables
